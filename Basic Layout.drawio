@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-22T12:07:00.927Z" agent="Mozilla/5.0 (X11; CrOS x86_64 15183.90.16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="2SYI71ILzZeW38b05UcC" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-22T12:08:00.750Z" agent="Mozilla/5.0 (X11; CrOS x86_64 15183.90.16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="ba2beO1KLTM9ofCk3Vvw" version="21.5.0" type="github">
   <diagram name="Page-1" id="JNGjLCjltGnPscHKivgy">
     <mxGraphModel dx="1367" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="100000" pageHeight="100000" math="0" shadow="0">
       <root>
@@ -93,6 +93,12 @@
         </mxCell>
         <mxCell id="tTFMm2PpBR3jiCBRk4-_-199" value="&lt;b&gt;&lt;i&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;WiFi over LAN&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="9535" y="6145" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tTFMm2PpBR3jiCBRk4-_-200" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/icons-unleashed-vol1/128/-guitar.png" vertex="1" parent="1">
+          <mxGeometry x="9200" y="6500" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="tTFMm2PpBR3jiCBRk4-_-201" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-solid-vol-2/24/bxs-guitar-amp-128.png" vertex="1" parent="1">
+          <mxGeometry x="9370" y="6510" width="128" height="128" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
